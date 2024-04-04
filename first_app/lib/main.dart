@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const MaterialApp(home: Scaffold (body: Center (child: Text("Halo  Yasa"),),),),);
 }
 
 class MyApp extends StatelessWidget {
