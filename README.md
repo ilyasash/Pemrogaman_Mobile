@@ -11,6 +11,7 @@
 
 ### module3_app  (Rolldice App)
 - **Deskripsi:** Hands-on Flutter Dart Fundamentals
+  Demo APP : 
   ![Demo GIF](https://github.com/user-attachments/assets/696433aa-6f85-464b-b4b1-8a29e7d6e97f)
 
 ### quiz_app
