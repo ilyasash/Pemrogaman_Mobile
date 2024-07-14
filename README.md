@@ -20,5 +20,5 @@
 
 ### FP_Mobile
 - **Deskripsi:** Final Project (Resep App)
-- **Detail:** CRUD Firebase and Authentication
+- **Detail:** CRUD Firebase 
 - **Link Youtube:** [Watch the demo](https://youtu.be/8XA6Z4R-98Y?si=11lY1g7egbcxUmO4)
